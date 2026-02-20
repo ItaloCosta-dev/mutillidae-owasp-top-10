@@ -72,4 +72,8 @@ OU
 ```
 Isso é o que vamos enviar para o login. E vamos ignorar por hora a senha.
 
+E para a minha grata surpresa... 23 resultados encontrados.
+
+
+![Texto alternativo](foto-4.png)
 
